@@ -1,6 +1,6 @@
 # MoonFi Token Farm
 
-![screenshot](ss.png?raw=true 'Screen')
+![screenshot](ss2.png?raw=true 'Screen')
 
 ### Features
 
